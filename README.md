@@ -1,4 +1,4 @@
-# teams-clone-vennela2132
+# Meet-clone-Greeshma
 A simple video chat app using node.js , socket.io and webrtc. <br>
 
 Features: <br>
